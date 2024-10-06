@@ -1,0 +1,1 @@
+The functionalities of the script is to capture real time satalite images and process them using the 3*3 grid data of Latitiude and longatitude, using the Google Earth API, then processing the satalite images locally with the necassy visualzations, NDV I, NVDI.

@@ -1,1 +1,1 @@
-The functionalities of the script is to capture real time satalite images and process them using the 3*3 grid data of Latitiude and longatitude, using the Google Earth API, then processing the satalite images locally with the necassy visualzations, NDV I, NVDI.
+A full easy friendly-user online navigation and notification system of Landsat 8 and Landsat 9, has been develop to give the exact location and to predict the next pass time over specific location.
